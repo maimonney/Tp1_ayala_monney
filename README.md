@@ -7,8 +7,9 @@
 - Monney Mailen
 ```
 
+## Anotaciones de clase
 ```
-- Intalar siempre el node 
+- Intalar siempre el node ya que en .gitignore esta la carpeta node_modules para que no se suba en el repo
 npm install nodemode 
 ```
 
